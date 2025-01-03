@@ -1,2 +1,2 @@
 # FightNetwork
-Simple-Project
+You can reach main project with selecting "master" branch.
